@@ -1,0 +1,16 @@
+{
+  "name": "MAGFP",
+  "version": "0.0.1",
+  "description": "Functional programming",
+  "author": "Michael Niepel <michael.niepel@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelniepel/magfp.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "ramda": "~0.22.1"
+  },
+  "private": false,
+  "license": "MIT"
+}
